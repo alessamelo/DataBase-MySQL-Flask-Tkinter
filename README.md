@@ -22,12 +22,20 @@ This project is a complete database-driven application simulating a music stream
 
 ## 📁 Project Structure
 ├── main.py # Flask app entry point
+
 ├── gui.py # Tkinter-based GUI
+
 ├── include/ # Contains API Blueprints for each entity
+
 │ ├── user.py
+
 │ ├── artist.py
+
 │ ├── song.py
+
 │ └── ...
+
 └── GUI_Images/ # Background images for the GUI
+
 
 
